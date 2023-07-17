@@ -1,12 +1,13 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-## Enes 16 👨‍🎓, Mid Flutter Developer 🚀!
+## Enes 16 👨‍🎓 Mid Flutter Developer 🚀
 - 🔭 I’m currently working on a Flutter Developer.
 - 🌱 I’m currently learning Dart | Arduino | Python
 - 👯 I’m looking to collaborate with other Flutter developers 👩‍💻 
 - 🤔 I’m looking for help with Flutter front-end developer
 - 🥅 2024 Goals: Univercity 🌎 learning Artifical Intelligence 🤖
 - ⚡ Fun fact: I love to body building 💪🏼 electric guitar 🎸.
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ### 📩 Contact To Me :
 
