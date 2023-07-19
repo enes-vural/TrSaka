@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other Flutter developers 👩‍💻 
 - 🤔 I’m looking for help with Flutter front-end developer
 - 🥅 2024 Goals: Univercity 🌎 learning Artifical Intelligence 🤖
-- ⚡ Fun fact: I love to body building 💪🏼 electric guitar 🎸.
+- ⚡ Fun fact: I love body building 💪🏼 electric guitar 🎸.
 
 ### 📩 Contact To Me :
 
