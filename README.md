@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Flutter Developer.
 - 🌱 I’m currently learning Dart | Arduino | Python
 - 👯 I’m looking to collaborate with other Flutter developers 👩‍💻 
-- 🤔 I’m looking for help with Flutter front-end developer
+- 🤔 I’m looking developer for our Studio.
 - 🥅 2024 Goals: Univercity 🌎 learning Artifical Intelligence 🤖
 - ⚡ Fun fact: I love body building 💪🏼 electric guitar 🎸.
 
