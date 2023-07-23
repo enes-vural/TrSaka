@@ -1,6 +1,6 @@
 
 
-## Enes 16 👨‍🎓 Mid Flutter Developer 🚀
+## Enes 16 👨‍🎓 Flutter Developer 🚀
 - 🔭 I’m currently working on a Flutter Developer.
 - 🌱 I’m currently learning Dart | Arduino | Python
 - 👯 I’m looking to collaborate with other Flutter developers 👩‍💻 
