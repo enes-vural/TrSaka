@@ -1,6 +1,4 @@
-👋 Hi, I'm Enes Vural!
-
-🚀 Flutter Developer | ESP32 & IoT | Entrepreneur
+Hi, I'm Enes Vural!
 
 I have been a Flutter developer for 3 years, specializing in mobile applications and ESP32-based IoT projects. I focus on writing clean and scalable code using Flutter.
 
