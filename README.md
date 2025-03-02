@@ -8,12 +8,6 @@ I have been a Flutter developer for 3 years, specializing in mobile applications
 - [Apple App Store](https://apps.apple.com/tr/developer/alper-vural/id1728214585)
 - [Huzurlu Yasam](https://huzurluyasam.net)
 
-
-📲 Follow Me
-
-🔗 LinkedIn | 📺 YouTube | 🐦 Twitter/X
-
 📩 Email: sakasstudio@gmail.com
 
-🚀 Developing new projects and creating innovative ideas is my passion!
 
